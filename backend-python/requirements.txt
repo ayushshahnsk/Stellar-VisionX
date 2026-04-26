@@ -1,0 +1,11 @@
+fastapi==0.103.2
+uvicorn==0.23.2
+python-multipart==0.0.6
+torch
+torchvision
+numpy
+opencv-python
+cloudinary
+requests
+pydantic
+python-dotenv
